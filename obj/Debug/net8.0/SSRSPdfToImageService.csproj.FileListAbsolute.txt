@@ -1,5 +1,0 @@
-D:\Source\Projects\DiaAdmin\Services\SSRSPdfToImage\SSRSPdfToImage\obj\Debug\net8.0\SSRSPdfToImageService.csproj.AssemblyReference.cache
-D:\Source\Projects\DiaAdmin\Services\SSRSPdfToImage\SSRSPdfToImage\obj\Debug\net8.0\SSRSPdfToImageService.GeneratedMSBuildEditorConfig.editorconfig
-D:\Source\Projects\DiaAdmin\Services\SSRSPdfToImage\SSRSPdfToImage\obj\Debug\net8.0\SSRSPdfToImageService.AssemblyInfoInputs.cache
-D:\Source\Projects\DiaAdmin\Services\SSRSPdfToImage\SSRSPdfToImage\obj\Debug\net8.0\SSRSPdfToImageService.AssemblyInfo.cs
-D:\Source\Projects\DiaAdmin\Services\SSRSPdfToImage\SSRSPdfToImage\obj\Debug\net8.0\SSRSPdfToImageService.csproj.CoreCompileInputs.cache
