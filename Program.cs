@@ -53,9 +53,7 @@ namespace SSRSPdfToImageService
         static async Task Start(IServiceProvider serviceProvider, ILogger<Program> logger, string[] args)
         {
             TraceHelperService.StartMethod(logger, args);
-
             Service.IOParams.InputOutputParameters<InputParameters, OutputParameters>? _InputOutputParameters;
-
             try
             {
                 _InputOutputParameters = serviceProvider.GetRequiredService<Service.IOParams.InputOutputParameters<InputParameters, OutputParameters>>();
