@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source\\Projects\\DiaAdmin\\Services\\SSRSPdfToImage\\SSRSPdfToImage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6606334-2867-D1FF-06BA-E9BFB08597E0}|..\\..\\..\\..\\..\\Framework\\FrameworkCore\\FrameworkCore.csproj|d:\\source\\framework\\frameworkcore\\ioparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972A7E44-9619-4555-B02A-B256ED16C4C8}|SSRSPdfToImageService.csproj|d:\\source\\projects\\diaadmin\\services\\ssrspdftoimage\\ssrspdftoimage\\service\\ioparams\\inputoutputparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972A7E44-9619-4555-B02A-B256ED16C4C8}|SSRSPdfToImageService.csproj|solutionrelative:service\\ioparams\\inputoutputparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972A7E44-9619-4555-B02A-B256ED16C4C8}|SSRSPdfToImageService.csproj|d:\\source\\projects\\diaadmin\\services\\ssrspdftoimage\\ssrspdftoimage\\ssrspdftoimageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{972A7E44-9619-4555-B02A-B256ED16C4C8}|SSRSPdfToImageService.csproj|solutionrelative:ssrspdftoimageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6606334-2867-D1FF-06BA-E9BFB08597E0}|..\\..\\..\\..\\..\\Framework\\FrameworkCore\\FrameworkCore.csproj|d:\\source\\framework\\frameworkcore\\frameworkcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972A7E44-9619-4555-B02A-B256ED16C4C8}|SSRSPdfToImageService.csproj|d:\\source\\projects\\diaadmin\\services\\ssrspdftoimage\\ssrspdftoimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972A7E44-9619-4555-B02A-B256ED16C4C8}|SSRSPdfToImageService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOParams.cs",
+              "DocumentMoniker": "D:\\Source\\Framework\\FrameworkCore\\IOParams.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Framework\\FrameworkCore\\IOParams.cs",
+              "ToolTip": "D:\\Source\\Framework\\FrameworkCore\\IOParams.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Framework\\FrameworkCore\\IOParams.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAQwJ8BAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:49:49.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrameworkCore",
+              "DocumentMoniker": "D:\\Source\\Framework\\FrameworkCore\\FrameworkCore.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Framework\\FrameworkCore\\FrameworkCore.csproj",
+              "ToolTip": "D:\\Source\\Framework\\FrameworkCore\\FrameworkCore.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Framework\\FrameworkCore\\FrameworkCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T08:46:29.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SSRSPdfToImageService",
+              "DocumentMoniker": "D:\\Source\\Projects\\DiaAdmin\\Services\\SSRSPdfToImage\\SSRSPdfToImage\\SSRSPdfToImageService.csproj",
+              "RelativeDocumentMoniker": "SSRSPdfToImageService.csproj",
+              "ToolTip": "D:\\Source\\Projects\\DiaAdmin\\Services\\SSRSPdfToImage\\SSRSPdfToImage\\SSRSPdfToImageService.csproj",
+              "RelativeToolTip": "SSRSPdfToImageService.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T08:46:11.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputOutputParameters.cs",
+              "DocumentMoniker": "D:\\Source\\Projects\\DiaAdmin\\Services\\SSRSPdfToImage\\SSRSPdfToImage\\Service\\IOParams\\InputOutputParameters.cs",
+              "RelativeDocumentMoniker": "Service\\IOParams\\InputOutputParameters.cs",
+              "ToolTip": "D:\\Source\\Projects\\DiaAdmin\\Services\\SSRSPdfToImage\\SSRSPdfToImage\\Service\\IOParams\\InputOutputParameters.cs",
+              "RelativeToolTip": "Service\\IOParams\\InputOutputParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:45:12.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Source\\Projects\\DiaAdmin\\Services\\SSRSPdfToImage\\SSRSPdfToImage\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Source\\Projects\\DiaAdmin\\Services\\SSRSPdfToImage\\SSRSPdfToImage\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAhwD0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:42:55.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
